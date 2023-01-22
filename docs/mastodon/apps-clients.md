@@ -20,7 +20,7 @@ Weil Mastodon auf dem offenen Standard [ActivityPub](activitypub.md) aufbaut, gi
 
 Hier listen wir einige Anwendungen, die im Umfeld der Nutzer\*innen von GRUENE.SOCIAL bereits getestet wurden. Weitere findest Du auf der Seite [Mobile Apps](https://joinmastodon.org/apps) der offiziellen Mastodon-Website.
 
-**Wichtig**: Diese Anwendungen sind nicht Teil des Mastodon-Projekts. Daher werden neue Funktionalitäten und Verbesserungen meist zuerst in der Web-Oberfläche von Mastodon zu finden sein.
+**Wichtig**: Diese Anwendungen sind nicht Teil des Mastodon-Projekts. Daher werden neue Funktionalitäten und Verbesserungen meist zuerst in der Web-Oberfläche von Mastodon zu finden sein. Da das Fediverse ständig wächst und die Schnittstellen offen sind kommen immer weitere Angebote hinzu - so findet sich für jeden Geschmack die richtige App!
 
 ### Android
 
@@ -29,6 +29,8 @@ Hier listen wir einige Anwendungen, die im Umfeld der Nutzer\*innen von GRUENE.S
 ### iOS
 
 - [**Amaroq**](https://github.com/ReticentJohn/Amaroq) - Kostenlose, quelloffene App für das iPhone und iPad ([App Store](https://apps.apple.com/de/app/amaroq-for-mastodon/id1214116200)).
+- [**Metatext**](https://github.com/metabolist/metatext) - Kostenlose, quelloffene App für das iPhone und iPad ([App Store](https://apps.apple.com/de/app/metatext/id1523996615)).
+- [**Toot!**](https://apps.apple.com/de/app/toot/id1229021451) - Kostenpflichtige App (4,99€), die Fokus auf Design legt - eventuell besser auf dem iPad.
 
 ### Sailfish OS
 
