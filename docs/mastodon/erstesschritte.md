@@ -67,6 +67,6 @@ Du kannst das so einstellen, dass jeder Mastodon-Post automatisch auch auf Twitt
 (Falls Du Dich entschieden hast gruene.social NICHT zu Deiner Heimat-Instanz zu machen läuft obengenannter Webservice nicht. Das ist aber kein Problem. Nutze dann einfach zum Beispiel https://moa.party/ oder andere Crossposting-Angebote im Netz...) 
 
  
-**Posts planen und später automatisch senden ** 
+**Posts planen und später automatisch senden** 
 
 Du möchtest jetzt Posts für die nächsten Stunden, Tage oder Woche vorbereiten um diese automatisch später zu posten? Auch hierfür gibt es diverse Tools online. Ich habe das nicht viel getestet – aber zum Beispiel https://barrd.dev/article/how-to-schedule-mastodon-posts/ funktioniert.  
