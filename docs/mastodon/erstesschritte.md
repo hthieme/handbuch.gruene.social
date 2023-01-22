@@ -4,7 +4,7 @@ Folgend die ersten Schritte um Dich anzumelden und womöglich auch schon Spaß z
 Ein ausführliches Handbuch findest Du unter https://handbuch.gruene.social/#/mastodon/  
 Was Mastodon ist, woher es kommt und viele weitere andere Themen werden im Handbuch erklärt. Hier möchte ich nur kurz erklären, wie Du zu gruene.social kommst. Natürlich kannst Du auch andere Instanten nutzen - das funktioniert fast immer gleich. 
 
-** Anmelden bei gruene.social ** 
+**Anmelden bei gruene.social** 
 
 Die Anmeldung ist gar nicht so schwierig. Da aber der Server nicht für alle offen steht, sondern nur für Grüne Parteimitglieder musst Du erst einmal um Aufnahme bei der gruene.social-Instanz bitten. Das ist aber nicht allzu schwer – keine Sorge!  
 
@@ -19,7 +19,7 @@ Hier musst Du nun Deinen Kurznamen auswählen (ich habe “yeti” gewählt), da
 Wähle ein sicheres Passwort und gebe auch Deine Emailadresse an, so dass dieser Account auch mit Dir verknüpft werden kann. Wenn Du alles ausgefüllt hast wird Dir eine Maiil an die Email geschickt. Klicke auf die Bestätigung und schon bist Du in der grünen Mastodon-Instanz angemeldet! 
 
  
-** Deine ersten Schritte ** 
+**Deine ersten Schritte ** 
 
 1. Du kannst sofort einigen anderen Profilen folgen. Klicke doch einfach mal auf einige und folge diesen Profilen. Du kannst diesen jederzeit wieder entfolgen. Denke daran: Je mehr Du Dich verknüpfst, desto mehr wirst auch Du gesehen. Wichtig: Nur, weil Du anderen folgst, folgen diese nicht automatisch Dir. Beachte deswegen die nächsten Schritte. 
 
@@ -40,14 +40,14 @@ Du kannst in den Tabellenfeldern im Profil übrigens auch Links zu Deiner Webpag
 7. Poste, kommentiere, booste. Glaub mir: Social Media funktioniert – aber dazu musst Du aktiv bleiben. 
 
 
-** TIPPS UND TRICKS ** 
+**TIPPS UND TRICKS ** 
 
 Du warst schon auf Twitter und möchtest schauen, wer von Twitter entweder zusätzlich zu Mastodon umgezogen ist oder ganz gewechselt hat? Du möchtest Twitter und Mastodon parallel nutzen – kein Problem!  
 
 Das ist alles SUPER-einfach. 
 
  
-** Finde Deine alten Freunde & Follower von Twitter! ** 
+**Finde Deine alten Freunde & Follower von Twitter! ** 
 
 Gerade wenn Du von Twitter kommst, wirst Du Deine alte Bubble am Anfang vermissen. Dabei sind sehr viele umgezogen zu Mastodon oder nutzen das parallel. 
 
@@ -58,7 +58,7 @@ Das Tool sucht automatisch in Twitter nach Deinem alten Netzwerk wie auch Liuste
 Klicke in gruene.social auf “Profil bearbeiten” und dann auf “Import & Export”, dann wieder “Import”. Klicke auf dieser Seite auf den Button “Datei auswählen” und lade die Liste anschließend hoch. Du folgst automatisch allen diesen Kontakten und auch diese werden darüber benachrichtigt. Hast Du bereits Dein Profil aussagekräftig bearbeitet, wissen die dann auch, wer jetzt neu dazugekommen ist und werden bestimmt auch mal bei Dir vorbeischauen und eventuell auch Dir folgen! Noch einmal: Gib Dir am Anfang ein bisschen Mühe, ein gutes Profil zu erstellen! 
 
  
-** Cross-Posting ** 
+**Cross-Posting ** 
 
 Du möchtest sowohl Twitter als auch Mastodon nutzen? Dann ist https://mastodon-cross.netzbegruenung.verdigado.net/ für Dich der richtige Service! Denn mit diesem Tool verbindest Du Dein Twitter-Konto mit Deinem Mastodon-Account.  
 
@@ -67,6 +67,6 @@ Du kannst das so einstellen, dass jeder Mastodon-Post automatisch auch auf Twitt
 (Falls Du Dich entschieden hast gruene.social NICHT zu Deiner Heimat-Instanz zu machen läuft obengenannter Webservice nicht. Das ist aber kein Problem. Nutze dann einfach zum Beispiel https://moa.party/ oder andere Crossposting-Angebote im Netz...) 
 
  
-** Posts planen und später automatisch senden ** 
+**Posts planen und später automatisch senden ** 
 
 Du möchtest jetzt Posts für die nächsten Stunden, Tage oder Woche vorbereiten um diese automatisch später zu posten? Auch hierfür gibt es diverse Tools online. Ich habe das nicht viel getestet – aber zum Beispiel https://barrd.dev/article/how-to-schedule-mastodon-posts/ funktioniert.  
