@@ -1,4 +1,4 @@
-- [ANMELDUNG](mastodon/erstesschritte.md)
+- [Schnellstart](mastodon/erstesschritte.md)
 - [Mastodon](mastodon/README.md)
   - [Unterschiede zu Twitter](mastodon/twitter-comparison.md)
   - [ActivityPub](mastodon/activitypub.md)
