@@ -19,35 +19,35 @@ Hier musst Du nun Deinen Kurznamen auswählen (ich habe “yeti” gewählt), da
 Wähle ein sicheres Passwort und gebe auch Deine Emailadresse an, so dass dieser Account auch mit Dir verknüpft werden kann. Wenn Du alles ausgefüllt hast wird Dir eine Maiil an die Email geschickt. Klicke auf die Bestätigung und schon bist Du in der grünen Mastodon-Instanz angemeldet! 
 
  
-**Deine ersten Schritte ** 
+**Deine ersten Schritte** 
 
 1. Du kannst sofort einigen anderen Profilen folgen. Klicke doch einfach mal auf einige und folge diesen Profilen. Du kannst diesen jederzeit wieder entfolgen. Denke daran: Je mehr Du Dich verknüpfst, desto mehr wirst auch Du gesehen. Wichtig: Nur, weil Du anderen folgst, folgen diese nicht automatisch Dir. Beachte deswegen die nächsten Schritte. 
 
 2. Erstelle Dein Profil (links oben siehst Du “Profil bearbeiten”). Du hast bereits einen Namen ausgesucht – das kann Dein Klarname sein oder ein Spitzname. Klasse! Jetzt helfe anderen Menschen zu verstehen, wer Du bist, was Dich bewegt und warum es interessant sein könnte, Dir zu folgen. Verkopf Dich nicht aber schreib ein paar Worte! 
 
-Auch ein gutes Profilbild sollte eingestellt sein. Die meisten Mastodon-Nutzer*innen folgen nicht blind anderen Profilen, sondern klicken erst einmal rein, schauen sich das Profil an und lesen die ersten Postings. Du kannst Dein Profil jederzeit ändern - scheue Dich nicht, dass aktuell zu halten.  
+3. Auch ein gutes Profilbild sollte eingestellt sein. Die meisten Mastodon-Nutzer*innen folgen nicht blind anderen Profilen, sondern klicken erst einmal rein, schauen sich das Profil an und lesen die ersten Postings. Du kannst Dein Profil jederzeit ändern - scheue Dich nicht, dass aktuell zu halten.  
 
-Du kannst in den Tabellenfeldern im Profil übrigens auch Links zu Deiner Webpage, zu Deinen von Dir bevorzugten Pronomen oder anderes angeben. Schau einfach mal, wie das andere machen und lerne von denen, die Du magst und Du toll findest! 
+4. Du kannst in den Tabellenfeldern im Profil übrigens auch Links zu Deiner Webpage, zu Deinen von Dir bevorzugten Pronomen oder anderes angeben. Schau einfach mal, wie das andere machen und lerne von denen, die Du magst und Du toll findest! 
 
-3. Dein erster Post! Im Mastodon Netzwerk hat es sich etabliert einen ersten Post abzusetzen mit dem Hashtag #neuhier. Stell Dich in diesem kurz vor, vielleicht suchst Du bestimmte Netzwerke oder hast bestimmte Interessen. Du wirst feststellen, viele im Netzwerk schauen bewusst nach den Neuankömmlingen und heißen diese willkommen und verhelfen zur Vernetzung! Klick auch Du mal auf den Hashtag oder suche nach diesem und sag einfach mal herzlich “Hallo!”! 
+5. Dein erster Post! Im Mastodon Netzwerk hat es sich etabliert einen ersten Post abzusetzen mit dem Hashtag #neuhier. Stell Dich in diesem kurz vor, vielleicht suchst Du bestimmte Netzwerke oder hast bestimmte Interessen. Du wirst feststellen, viele im Netzwerk schauen bewusst nach den Neuankömmlingen und heißen diese willkommen und verhelfen zur Vernetzung! Klick auch Du mal auf den Hashtag oder suche nach diesem und sag einfach mal herzlich “Hallo!”! 
 
-4. Schau regelmäßig mal ins Netzwerk – kommentiere, like oder booste Postings von anderen Menschen! Am Anfang wird Deine eigene Timeline (das ist das, wo alle Deine vernetzten Kontakte zu lesen sind) noch sehr dünn sein. Folge mehr Menschen und schau auch einmal auf die “Lokale Timeline” (die neuesten öffentlichen Beiträge von Personen, deren Konten von gruene.social gehostet werden - also alle Nutzer auf gruene.social) oder “Föderierte Timeline” (die neuesten öffentlichen Beiträge von Personen auf diesem und anderen Servern des dezentralen Netzwerks, die dieser Server kennt). Du findest diese auf der rechten Seite im Browser. 
+6. Schau regelmäßig mal ins Netzwerk – kommentiere, like oder booste Postings von anderen Menschen! Am Anfang wird Deine eigene Timeline (das ist das, wo alle Deine vernetzten Kontakte zu lesen sind) noch sehr dünn sein. Folge mehr Menschen und schau auch einmal auf die “Lokale Timeline” (die neuesten öffentlichen Beiträge von Personen, deren Konten von gruene.social gehostet werden - also alle Nutzer auf gruene.social) oder “Föderierte Timeline” (die neuesten öffentlichen Beiträge von Personen auf diesem und anderen Servern des dezentralen Netzwerks, die dieser Server kennt). Du findest diese auf der rechten Seite im Browser. 
 
-5. Poste regelmäßig - und sei dabei nett und authentisch. Poste Katzenbilder genauso wie politische Themen. Du bist bunt und hast viele Interessen – das trifft auch für alle anderen zu. Sei interessant, aber nicht eitel. Sei interessiert und nicht besserwisserisch. 
+7. Poste regelmäßig - und sei dabei nett und authentisch. Poste Katzenbilder genauso wie politische Themen. Du bist bunt und hast viele Interessen – das trifft auch für alle anderen zu. Sei interessant, aber nicht eitel. Sei interessiert und nicht besserwisserisch. 
 
-6. Lade Dir eine der vielen zur Verfügung stehenden Apps auf Dein Handy und Tablet – Du wirst sehen, die Nutzung wird dadurch noch einfacher.  
+8. Lade Dir eine der vielen zur Verfügung stehenden Apps auf Dein Handy und Tablet – Du wirst sehen, die Nutzung wird dadurch noch einfacher.  
 
-7. Poste, kommentiere, booste. Glaub mir: Social Media funktioniert – aber dazu musst Du aktiv bleiben. 
+9. Poste, kommentiere, booste. Glaub mir: Social Media funktioniert – aber dazu musst Du aktiv bleiben. 
 
 
-**TIPPS UND TRICKS ** 
+**TIPPS UND TRICKS** 
 
 Du warst schon auf Twitter und möchtest schauen, wer von Twitter entweder zusätzlich zu Mastodon umgezogen ist oder ganz gewechselt hat? Du möchtest Twitter und Mastodon parallel nutzen – kein Problem!  
 
 Das ist alles SUPER-einfach. 
 
  
-**Finde Deine alten Freunde & Follower von Twitter! ** 
+**Finde Deine alten Freunde & Follower von Twitter!** 
 
 Gerade wenn Du von Twitter kommst, wirst Du Deine alte Bubble am Anfang vermissen. Dabei sind sehr viele umgezogen zu Mastodon oder nutzen das parallel. 
 
@@ -58,7 +58,7 @@ Das Tool sucht automatisch in Twitter nach Deinem alten Netzwerk wie auch Liuste
 Klicke in gruene.social auf “Profil bearbeiten” und dann auf “Import & Export”, dann wieder “Import”. Klicke auf dieser Seite auf den Button “Datei auswählen” und lade die Liste anschließend hoch. Du folgst automatisch allen diesen Kontakten und auch diese werden darüber benachrichtigt. Hast Du bereits Dein Profil aussagekräftig bearbeitet, wissen die dann auch, wer jetzt neu dazugekommen ist und werden bestimmt auch mal bei Dir vorbeischauen und eventuell auch Dir folgen! Noch einmal: Gib Dir am Anfang ein bisschen Mühe, ein gutes Profil zu erstellen! 
 
  
-**Cross-Posting ** 
+**Cross-Posting** 
 
 Du möchtest sowohl Twitter als auch Mastodon nutzen? Dann ist https://mastodon-cross.netzbegruenung.verdigado.net/ für Dich der richtige Service! Denn mit diesem Tool verbindest Du Dein Twitter-Konto mit Deinem Mastodon-Account.  
 
